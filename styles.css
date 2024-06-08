@@ -21,12 +21,14 @@
 }
 
 #btn {
-    background-color: #fb0066;
+    background-color: #fb0066; 
+/*     pink fb0066 */
 }
 
 input[type=button] {
     font-family: 'Orbitron', sans-serif;
-    background-color: #64278f;
+    background-color: #e7f433;
+/*     purple 64278f */
     color: white;
     border: solid black 0.5px;
     width: 100%;
