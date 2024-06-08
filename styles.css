@@ -27,7 +27,7 @@
 
 input[type=button] {
     font-family: 'Orbitron', sans-serif;
-    background-color: #e7f433;
+    background-color: #64278f;
 /*     purple 64278f */
     color: white;
     border: solid black 0.5px;
@@ -38,7 +38,8 @@ input[type=button] {
 }
 
 input:active[type=button] {
-    background: #e5e5e5;
+    background: #e5e5e5; 
+/*     white */
     -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
     -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
     box-shadow: inset 0px 0px 5px #c1c1c1;
